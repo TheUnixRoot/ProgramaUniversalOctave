@@ -1,0 +1,40 @@
+
+                   _   _ _    _ _____ ____       _
+                  | | | | \  / |  _  |  __|_____| |
+                  | | | |  \/  | |_| | |_ |  _  | |
+                  | |_| | \  / |  _  |  _|| |_| | |__
+                  |_____|_|\/|_|_| |_|_|  |_____|____|
+
+
+UMAFoL is a toolbox under construction that implements the main concepts of
+formal languages theory. And is being developed at the University of Malaga,
+hence its name.
+
+INSTALLATION
+
+  UMAFoL runs under Octave, which can be downloaded from
+
+      http://www.gnu.org/software/octave/download.html
+
+  There is a GUI for Linux (QtOctave), but we recommend to work with gedit
+  (configured for Octave files: View > Highlight mode > Scientific)
+  and the terminal, the good-old-fashioned style.
+
+  You'll need to setup the path (addpath + savepath).
+
+CONTACT
+
+  If you have problems, questions, ideas or suggestions, please contact us
+  at fjvico@uma.es.
+
+DOWNLOAD
+
+  The (provisional) download site is
+  
+      http://bit.ly/1DCOMa8
+
+NOTICE
+
+  UMAFoL is distributed under CC0 license (creativecommons.org/about/cc0),
+  meaning that it is public domain, it can be used, modified and copied without
+  restrictions.
